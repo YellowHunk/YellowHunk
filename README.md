@@ -2,6 +2,7 @@
 
 Me chamo Henry, sou estudante em graduação em Análise e Desenvolvimento de Sistemas pela instituição UNINTER. Sou apaixonado por tecnologia desde sempre. Quando criança sempre me vi atuando na área de tecnologia. 
 Vivo me informando sobre tecnologia em geral para sempre manter minha mente e conhecimentos atualizados. Gosto também de programação voltada para o desenvolvimento de jogos, gosto de jogar video games, jogar vôlei e basquete.
+Moro em Rio Grande-RS, tenho 24 anos atualmente(2025) e estou em busca de uma oportunidade de crescer como desenvolvedor no vasto mercado de trabalho da área da tecnologia.
 
 Atualmente estou desenvolvendo um projeto pessoal e educacional voltado para a área da saúde valorizando a importância e necessidade de apoio emocional e atenção a pessoas com problemas psicológicos em busca de ajuda. 
 
