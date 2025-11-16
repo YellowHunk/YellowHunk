@@ -1,7 +1,15 @@
-## Hi there 👋
+## Fala aí, tudo bem? 👋
+
+Me chamo Henry, sou estudante em graduação em Análise e Desenvolvimento de Sistemas pela instituição UNINTER. Sou apaixonado por tecnologia desde sempre. Quando criança sempre me vi atuando na área de tecnologia. 
+Vivo me informando sobre tecnologia em geral para sempre manter minha mente e conhecimentos atualizados. Gosto também de programação voltada para o desenvolvimento de jogos, gosto de jogar video games, jogar vôlei e basquete.
+
+Atualmente estou desenvolvendo um projeto pessoal e educacional voltado para a área da saúde valorizando a importância e necessidade de apoio emocional e atenção a pessoas com problemas psicológicos em busca de ajuda. 
+
+Também estou estudando linguagens como Javascript, Python e SQL. Buscando me formalizar, entender a lógica e como aplicar de maneira objetiva cada linha de código.
 
 <!--
-**YellowHunk/YellowHunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
