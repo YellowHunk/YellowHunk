@@ -1,5 +1,5 @@
-[![MasterHead](<img width="1713" height="459" alt="banner" src="https://github.com/user-attachments/assets/1d970466-9825-45df-a143-00b074c025d5" />
-)](https://github.com/YellowHunk/YellowHunk/edit/main/README.md)
+<img width="1713" height="459" alt="banner" src="https://github.com/user-attachments/assets/caac9e2f-faa6-4b38-813f-578924add185" />[![MasterHead](<img width="1713" height="459" alt="banner" src="https://github.com/user-attachments/assets/abcab6d8-3988-4350-a3fd-15281b1059a7" />
+)](your GitHub link)
 
 ## Fala aí, tudo bem? 👋
 
@@ -15,6 +15,6 @@ Também estou estudando linguagens como Javascript, Python e SQL. Buscando me fo
 
 <h3 align="left">Entre em contato comigo: </h3>
 <p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/henry-costa-3ba43a322/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yellowhunk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
